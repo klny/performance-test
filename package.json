@@ -1,7 +1,7 @@
 {
   "name": "@klny/performance-test",
   "version": "1.0.0",
-  "description": "get, log and create statistics of JS functions performance",
+  "description": "log and create statistics of JS functions performance",
   "main": "index.js",
   "scripts": {
     "test": "node ./test"
